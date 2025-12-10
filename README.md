@@ -10,8 +10,6 @@
 
 <div align="center">
 
- 🚀 **Goal:** Graduating from EPITECH.
-
  💡 I'm currently learning **C#** (Game Dev) and **Next.js/React** (Web Dev).
 
  ⚙️ Ask me about **my passion for** Redstone computer, hardware repair, Python basics, or physics!
