@@ -31,7 +31,7 @@
 <br/>
 <div align="center">
   
- 💻 **[Architect]** Building a **Redstone Computer** in Minecraft
+ 💻 **[Game]** Create a **Game** 
  
  ✍️ **[Coder]** Developing my **Custom Note-Taking Web App**.
  
